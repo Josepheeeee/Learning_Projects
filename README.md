@@ -8,7 +8,7 @@ A repository to document my learning journey — tracking progress through cours
 
 | 课程 / Course | 状态 / Status | 笔记 / Notes |
 |---|---|---|
-| (待添加 / To be added) | | |
+| [MIT 6.006 - Introduction to Algorithms](./MIT_6.006/) | 🔄 In Progress | [笔记 / Notes](./MIT_6.006/README.md) |
 
 ## 说明 / About
 
